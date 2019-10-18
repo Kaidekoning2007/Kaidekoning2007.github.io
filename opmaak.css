@@ -1,0 +1,23 @@
+body {
+  color: silver;
+  background-image: url(achtergrond.jpg);
+  background-color:white;
+}
+
+h2 {
+color: yellow;
+background-color: ;
+}
+
+body {
+background-color: white;
+color: black;
+padding:20px;
+font-size:14px;
+font-family:arial;
+line-height: 18px;
+}
+table, td, tr{
+border: 1px solid;
+padding:2px;
+}
